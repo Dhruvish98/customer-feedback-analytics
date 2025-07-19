@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+
+# Data
+*.csv
+*.db
+data-generation/data/*
+
+#
