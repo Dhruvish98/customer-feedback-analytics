@@ -1,0 +1,26 @@
+{
+  "total_reviews": 10000,
+  "categories": {
+    "Electronics": 2915,
+    "Fashion": 2503,
+    "Home Appliances": 2017,
+    "Beauty": 1536,
+    "Sports": 1029
+  },
+  "sentiment_distribution": {
+    "positive": 4178,
+    "neutral": 3901,
+    "negative": 1921
+  },
+  "rating_distribution": {
+    "3": 3901,
+    "5": 2900,
+    "1": 1323,
+    "4": 1278,
+    "2": 598
+  },
+  "date_range": {
+    "start": "2023-07-23",
+    "end": "2025-07-22"
+  }
+}
