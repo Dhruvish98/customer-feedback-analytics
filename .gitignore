@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 *.so
 .Python
 build/
@@ -34,10 +35,22 @@ venv.bak/
 .env.development.local
 .env.test.local
 .env.production.local
+=======
+venv/
+env/
+.env
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+>>>>>>> origin/main
 
 # IDE
 .vscode/
 .idea/
+<<<<<<< HEAD
 *.swp
 *.swo
 *~
@@ -192,3 +205,17 @@ docs/_build/
 
 # Local development
 local_settings.py 
+=======
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+
+# Data
+*.csv
+*.db
+data-generation/data/*
+
+#
+>>>>>>> origin/main
